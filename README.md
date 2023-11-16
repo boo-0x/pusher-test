@@ -1,18 +1,16 @@
 # Pusher test script
 
-1. Set source and target database connections in `.env` file.
-
-2. Install dependencies.
+Install dependencies.
 ```shell
 yarn
 ```
 
-3. Build.
+Build.
 ```shell
 yarn build
 ```
 
-4. Run script.
+Run script.
 ```shell
 yarn start
 ```
